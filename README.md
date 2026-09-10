@@ -787,4 +787,4 @@ If you're an agent developer, you can use the SDK to implement the protocol. You
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Div99/agent-protocol&type=Date)](https://star-history.com/#Div99/agent-protocol&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Div99/agent-protocol&type=Date)](https://star-history.dera.page/#Div99/agent-protocol&Date)
