@@ -15,16 +15,16 @@
 </p>
 <h1 align="center">
   <img height="540px" src="./assets/sonyAgentMap.png" alt="sony agent protocol is in progress..." title="sony agent protocol is in progress...">
-  <br>⚠️感謝大力支持的朋友，我們會堅持運維到Portal2出來⚠️
+  <br>⚠️感謝大力支持的朋友!我們會堅持運維到Portal2出來⚠️
 </h1>
 <H1 align="center""> s &nbsp; o &nbsp; n &nbsp; y &nbsp; a &nbsp; g &nbsp; e &nbsp; n &nbsp; t &nbsp; . &nbsp; c &nbsp; o &nbsp; m </H1>
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 0 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 2 &nbsp; 0 <img width="20" src="https://img.icons8.com/?size=100&id=WQgynbTLjuXX&format=png&color=000000" /><img width="20" src="https://img.icons8.com/?size=100&id=OafC2pWK4RV4&format=png&color=000000" /></H1>
 
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 0 &nbsp; 1 <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 2 &nbsp; 1 <img width="20" src="https://img.icons8.com/?size=100&id=KvglG3FkCenH&format=png&color=000000" /></H1>
 
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 0 &nbsp; 2 <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 2 &nbsp; 2 <img width="20" src="https://img.icons8.com/?size=100&id=uCynf758t5TG&format=png&color=000000" /></H1>
  
-<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 0 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
+<H1 align="center"><img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /> 8 &nbsp; 1 &nbsp; 2 &nbsp; 3 <img width="20" src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" /></H1>
 <H1 align="center">ENJOY!</H1>
 <H1 align="center">ONE MORE SONYAGENT COMING SOON!</H1>
 <H3 align="center" style="color: red;">爲保證解析速度現已啓用全新專屬域名PSP4.ME㊙️『PSP for You』</H3><br>
@@ -624,7 +624,39 @@
 | 💖**米奇**<br>✨✨✨✨✨ | 💖**熊匠**<br>✨✨✨✨✨ | 💖**利**<br>✨✨✨✨✨ | 💖**生**<br>✨✨✨✨✨ | 💖**萌**<br>✨✨✨✨✨ |
 | 💖**峰**<br>✨✨✨✨✨ | 💖**潇**<br>✨✨✨✨✨ | 💖**群**<br>✨✨✨✨✨ | 💖**境**<br>✨✨✨✨✨ | 💖**伟**<br>✨✨✨✨✨ |
 | 💖**华**<br>✨✨✨✨✨ | 💖**诚**<br>✨✨✨✨✨ | 💖**NULL**<br> | 💖**LUCAS**<br>✨✨✨✨✨ | 💖**鸣**<br>✨✨✨✨✨ |
-| 💖**明**<br>✨✨✨✨✨ | 💖**张晓裕**<br>✨✨✨✨✨ | 💖**青**<br>✨✨ | 💖**芝**<br>✨✨✨✨✨ | 💖**YOU**<br>✨✨✨✨✨ |
+| 💖**明**<br>✨✨✨✨✨ | 💖**张晓裕**<br>✨✨✨✨✨ | 💖**青**<br>✨✨✨✨✨ | 💖**芝**<br>✨✨✨✨✨ | 💖**洪**<br>✨✨✨✨✨ |
+| 💖**小豬**<br>✨✨✨✨✨ | 💖**烨**<br>✨✨✨✨✨ | 💖**君**<br>✨✨✨✨✨ | 💖**俊**<br>✨✨✨✨✨ | 💖**jinyuan**<br>✨✨✨✨✨ |
+| 💖**阿坤**<br>✨✨✨✨✨ | 💖**熊**<br>✨✨✨✨✨ | 💖**盛**<br>✨✨✨✨✨ | 💖**杰**<br>✨✨✨✨✨ | 💖**洋**<br>✨✨✨✨✨ |
+| 💖**铜**<br>✨✨✨✨✨ | 💖**群**<br>✨✨✨✨✨ | 💖**旻**<br>✨✨✨✨✨ | 💖**晨**<br>✨✨✨✨✨ | 💖**韬**<br>✨✨✨✨✨ |
+| 💖**磊**<br>✨✨✨✨✨ | 💖**涛**<br>✨✨✨✨✨ | 💖**烽**<br>✨✨✨✨✨ | 💖**willxm**<br>✨✨✨✨✨ | 💖**浩**<br>✨✨✨✨✨ |
+| 💖**疆**<br>✨✨✨✨✨ | 💖**曦**<br>✨✨✨✨✨ | 💖**心**<br>✨✨✨✨✨ | 💖**彭**<br>✨✨✨✨✨ | 💖**舜**<br>✨✨✨✨✨ |
+| 💖**斌**<br>✨✨✨✨✨ | 💖**翔**<br>✨✨✨✨✨ | 💖**越**<br>✨✨✨✨✨ | 💖**成**<br>✨✨✨✨✨ | 💖**飞**<br>✨✨✨✨✨ |
+| 💖**年**<br>✨✨✨✨✨ | 💖**卓**<br>✨✨✨✨✨ | 💖**农**<br>✨✨✨✨✨ | 💖**赟**<br>✨✨✨✨✨ | 💖**炎**<br>✨✨✨✨✨ |
+| 💖**博**<br>✨✨✨✨✨ | 💖**kittykwoon**<br>✨✨✨✨✨ | 💖**灏**<br>✨✨✨✨✨ | 💖**伟**<br>✨✨✨✨✨ | 💖**伟**<br>✨✨✨✨✨ |
+| 💖**滨**<br>✨✨✨✨✨ | 💖**军**<br>✨✨✨✨✨ | 💖**滨**<br>✨✨✨ | 💖**佳**<br>✨✨✨✨✨ | 💖**添**<br>✨✨✨✨✨ |
+| 💖**瓜瓜瓜**<br>✨✨✨✨✨ | 💖**文**<br>✨✨✨✨✨ | 💖**宇**<br>✨✨✨✨✨ | 💖**非**<br>✨✨✨✨✨ | 💖**鲱**<br>✨✨✨✨✨ |
+| 💖**蓝天紫瑄**<br>✨✨✨✨✨ | 💖**亮**<br>✨✨✨✨✨ | 💖**翔**<br>✨✨✨✨✨ | 💖**晨**<br>✨✨✨✨✨ | 💖**轩**<br>✨✨✨✨✨ |
+| 💖**宇**<br>✨✨✨✨✨ | 💖**珈**<br>✨✨✨✨✨ | 💖**侯继宁**<br>✨✨✨✨✨ | 💖**Proes**<br>✨✨✨✨✨ | 💖**平**<br>✨✨✨✨✨ |
+| 💖**晨**<br>✨✨✨✨✨ | 💖**州**<br>✨✨✨✨✨ | 💖**朕**<br>✨✨✨✨✨ | 💖**标**<br>✨✨✨✨✨ | 💖**德**<br>✨✨✨✨✨ |
+| 💖**科**<br>✨✨✨✨✨ | 💖**侨**<br>✨✨✨✨✨ | 💖**涛**<br>✨✨✨✨✨ | 💖**howzhe2008**<br>✨✨✨✨✨ | 💖**昊**<br>✨✨✨✨✨ |
+| 💖**亮**<br>✨✨✨✨✨ | 💖**gitxiaosheng**<br>✨✨✨✨✨ | 💖**翰**<br>✨✨✨✨✨ | 💖**照**<br>✨✨✨✨✨ | 💖**夕**<br>✨✨✨✨✨ |
+| 💖**晟**<br>✨✨✨✨✨ | 💖**铭**<br>✨✨✨✨✨ | 💖**而涛触**<br>✨✨✨✨✨ | 💖**爽**<br>✨✨✨✨✨ | 💖**瑶**<br>✨✨✨✨✨ |
+| 💖**钰**<br>✨✨✨✨✨ | 💖**章**<br>✨✨✨✨✨ | 💖**钊**<br>✨✨✨✨✨ | 💖**周子旋**<br>✨✨✨✨✨ | 💖**鹏**<br>✨✨✨✨✨ |
+| 💖**鑫**<br>✨✨✨✨✨ | 💖**新**<br>✨✨✨✨✨ | 💖**Ivan**<br>✨✨✨✨✨ | 💖**文**<br>✨✨✨✨✨ | 💖**章**<br>✨✨✨✨✨ |
+| 💖**强**<br>✨✨✨✨✨ | 💖**涛**<br>✨✨✨✨✨ | 💖**晓**<br>✨✨✨✨✨ | 💖**顺**<br>✨✨✨✨✨ | 💖**健**<br>✨✨✨✨✨ |
+| 💖**热心东先生**<br>✨✨✨✨✨ | 💖**泓**<br>✨✨✨✨✨ | 💖**happywzl**<br>✨✨✨✨✨ | 💖**宇**<br>✨✨✨✨✨ | 💖**文**<br>✨✨✨✨✨ |
+| 💖**岳**<br>✨✨✨✨✨ | 💖**挺**<br>✨✨✨✨✨ | 💖**志**<br>✨✨✨✨✨ | 💖**聪**<br>✨✨✨✨✨ | 💖**威**<br>✨✨✨✨✨ |
+| 💖**聪**<br>✨✨✨✨✨ | 💖**文**<br>✨✨✨✨✨ | 💖**Chris Xiong**<br>✨✨✨✨✨ | 💖**威**<br>✨✨✨✨✨ | 💖**伟**<br>✨✨✨✨✨ |
+| 💖**皓**<br>✨✨✨✨✨ | 💖**章**<br>✨✨✨✨✨ | 💖**雄**<br>✨✨✨✨✨ | 💖**蓉**<br>✨✨✨✨✨ | 💖**剧本**<br>✨✨✨✨✨ |
+| 💖**杰**<br>✨✨✨✨✨ | 💖**舟**<br>✨✨✨✨✨ | 💖**舟**<br>✨✨✨✨✨ | 💖**伦**<br>✨✨✨✨✨ | 💖**轩**<br>✨✨✨✨✨ |
+| 💖**易**<br>✨✨✨✨✨ | 💖**星**<br>✨✨✨✨✨ | 💖**QDD**<br>✨✨✨✨✨ | 💖**openfly**<br>✨✨✨✨✨ | 💖**敏**<br>✨✨✨✨✨ |
+| 💖**哲**<br>✨✨✨✨✨ | 💖**豪**<br>✨✨✨✨✨ | 💖**林**<br>✨✨✨✨✨ | 💖**源**<br>✨✨✨✨✨ | 💖**勇**<br>✨✨✨✨✨ |
+| 💖**玥**<br>✨✨✨✨✨ | 💖**君**<br>✨✨✨✨✨ | 💖**智**<br>✨✨✨✨✨ | 💖**飞**<br>✨✨✨✨✨ | 💖**术**<br>✨✨✨✨✨ |
+| 💖**慧**<br>✨✨✨✨✨ | 💖**骁**<br>✨✨✨✨✨ | 💖**东**<br>✨✨✨✨✨ | 💖**琦**<br>✨✨✨✨✨ | 💖**雨**<br>✨✨✨✨✨ |
+| 💖**羽**<br>✨✨✨✨✨ | 💖**L**<br>✨✨✨✨✨ | 💖**嘉义**<br>✨✨✨✨✨ | 💖**凡**<br>✨✨✨✨✨ | 💖**泽**<br>✨✨✨✨✨ |
+| 💖**声**<br>✨✨✨✨✨ | 💖**杰**<br>✨✨✨✨✨ | 💖**霖**<br>✨✨✨✨✨ | 💖**明**<br>✨✨✨✨✨ | 💖**源**<br>✨✨✨✨✨ |
+| 💖**明**<br>✨✨✨✨✨ | 💖**宇**<br>✨✨✨✨✨ | 💖**晨**<br>✨✨✨✨✨ | 💖**昊**<br>✨✨✨✨✨ | 💖**Jay**<br>✨✨✨✨✨ |
+| 💖**园**<br>✨✨✨✨✨ | 💖**昱**<br>✨✨✨✨✨ | 💖**溱**<br>✨✨✨✨✨ |  |  |
 <p align="left">
 👉 齊心撐場，排名不分先後 👈
 </p>
